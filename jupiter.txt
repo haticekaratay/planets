@@ -1,1 +1,3 @@
 "Hello from the Planet Jupyter"
+
+"What is gravity here on Jupyter?"
